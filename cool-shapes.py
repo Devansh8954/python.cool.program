@@ -55,24 +55,24 @@ for i in range(50):
 triad.up()
 triad.goto(-110, 200)
 triad.down()
-triad.write("Triad")
+triad.write("Triangle")
 triad.hideturtle()
 
 squad.up()
 squad.goto(120, 180)
 squad.down()
-squad.write("Squad")
+squad.write("Square")
 squad.hideturtle()
 
 pentago.up()
 pentago.goto(-140, -20)
-pentago.write("Pentago")
+pentago.write("Pentagon")
 pentago.hideturtle()
 
 octago.up()
 octago.goto(120, -40)
 octago.down()
-octago.write("Hex")
+octago.write("Hexagon")
 octago.hideturtle()
 
 astroid.up()
